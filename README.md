@@ -6,3 +6,5 @@ This is my notes of learning recommender system algorithms. I will post summarie
 3) Matrix Factorization Techniques for Recommender Systems
 4) Factorization Machines
 5) Deep Neural Networks for YouTube Recommendations
+6) DLRM
+7) Deep Learning based Recommender System: A Survey and New Perspectives
